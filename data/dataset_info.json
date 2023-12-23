@@ -1,4 +1,8 @@
 {
+  "beanjoydata": {
+    "file_name": "BeanjoyData.json",
+    "file_sha1": "34e67bf1ea9b1a189f5f904758be4f778a9d4571"
+  },
   "alpaca_en": {
     "file_name": "alpaca_data_en_52k.json",
     "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
